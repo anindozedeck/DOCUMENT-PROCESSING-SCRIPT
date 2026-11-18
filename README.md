@@ -1,4 +1,4 @@
-# Document Processing Demo
+# Document Processing Script
 
 A small Python demo for extracting information from PDFs, generating a Word
 sales report, and indexing batches of PDF invoices into a CSV file.
